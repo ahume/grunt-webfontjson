@@ -53,7 +53,6 @@ module.exports = function(grunt) {
       ttf: {
         options: {
           "filename": "test/MyriadPro.ttf.json",
-          "callback": "myCallback",
           "fonts": [
             {
               "font-family": "WebFont-MyriadPro",
