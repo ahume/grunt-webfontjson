@@ -63,7 +63,7 @@ Default value: `'webfontjsonCallback'`
 A string value that is the name of the function callback to wrap the json in.
 
 #### options.fonts
-Type: 'Array'
+Type: `Array`
 
 List of fonts to make up the new json font file. Include all properties you want included on '@font-face' rule in the resulting CSS. `font-family`, `file` and `format` are required.
 
