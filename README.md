@@ -34,13 +34,13 @@ grunt.initConfig({
             "font-family": "WebFont-MyriadPro",
             "font-weight": "normal",
             "file": "/Library/Fonts/MyriadPro-Regular.woff",
-            "format": "otf"
+            "format": "woff"
           },
           {
             "font-family": "WebFont-MyriadPro",
             "font-weight": "bold",
             "file": "/Library/Fonts/MyriadPro-Bold.woff",
-            "format": "otf"
+            "format": "woff"
           }
         ]
       }
