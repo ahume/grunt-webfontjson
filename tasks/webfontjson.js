@@ -19,7 +19,7 @@ module.exports = function(grunt) {
   grunt.registerMultiTask('webfontjson', 'Build json to deliver web fonts.', function() {
     // Merge task-specific and/or target-specific options with these defaults.
     var config = this.options({
-      callback: 'webfontjson'
+      callback: 'webfontjsonCallback'
     });
 
     var done = this.async();
