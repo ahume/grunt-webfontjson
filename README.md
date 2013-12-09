@@ -1,6 +1,6 @@
 # grunt-webfontjson
 
-> Grunt plugin for webfontjson.
+> Grunt plugin for [webfontjson](https://github.com/ahume/webfontjson).
 
 ## Getting Started
 This plugin requires Grunt `~0.4.0`
