@@ -1,6 +1,12 @@
 # grunt-webfontjson
 
-> Grunt plugin for webfontjson.
+> Grunt plugin for [webfontjson](https://github.com/ahume/webfontjson).
+
+Turn a set of web font files into JSON.
+
+## Why?
+
+Sometimes you want more control over when and how web fonts are loaded in to your page. Sometimes you want to cache them in localStorage or indexedDB, decide exactly which point they are applied to the page, etc… That's difficult when you simply download a font file.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.0`
